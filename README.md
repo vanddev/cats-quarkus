@@ -1,8 +1,8 @@
-# bitcoin Project
+# Cats Quarkus
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+This project is made to test build time, performance and learning curve of a simple API using Quarkus
 
-If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+This made part of a collection with another 2 projects when I test spring and micronaut as well.
 
 ## Running the application in dev mode
 
@@ -42,17 +42,3 @@ Or, if you don't have GraalVM installed, you can run the native executable build
 ```
 
 You can then execute your native executable with: `./target/bitcoin-1.0.0-SNAPSHOT-runner`
-
-If you want to learn more about building native executables, please consult https://quarkus.io/guides/maven-tooling.html.
-
-## Related Guides
-
-- RESTEasy JAX-RS ([guide](https://quarkus.io/guides/rest-json)): REST endpoint framework implementing JAX-RS and more
-
-## Provided Code
-
-### RESTEasy JAX-RS
-
-Easily start your RESTful Web Services
-
-[Related guide section...](https://quarkus.io/guides/getting-started#the-jax-rs-resources)
